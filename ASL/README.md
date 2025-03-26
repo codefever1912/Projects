@@ -1,0 +1,2 @@
+This is a project about real time ASL detection using PyTorch, OpenCV and Mediapipe as of now. The model is trained on the Kaggle dataset grassknoted/ASL - <insert dataset link>
+As of the latest commit, currently the model is capable of only recognising images, while I am working on integrating real-time webcame/camera integration and ultimately hosting the model on HuggingFace.
