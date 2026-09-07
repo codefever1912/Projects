@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# Node
+node_modules/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Large files / Data
+*.csv
+*.pt
+*.pth
+*.pb
+*.h5
+*.mp4
+*.avi
+*.zip
+models/
+outputs/
+inputs/
+datasets/
+uploads/
